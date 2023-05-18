@@ -3,7 +3,7 @@ This project was to create a random password generator that prompts the user to 
 
 # Installation 
 This site is deployed through the GitHub link provided:
-Site link: file:///Users/marenchristensen/Password-Generator-Module-3/Password-Generator-Module-3/index.html
+Site link: https://github.com/mj470/Password-Generator-Module-3
 
 # Usage
 This page could be used to generate a random password when the user follows 4 specific criteria about case, special characters, numbers, and length. This will genearte a password and then reset to generate another. 
