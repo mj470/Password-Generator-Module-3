@@ -1,9 +1,10 @@
+# Password-Generator-Module-3
 # Description 
 This project was to create a random password generator that prompts the user to accept certain criteria to create a password. The prompts are also set up to redirect the user if they do not enter the correct criteria. This assignment was all done in Javascript with an HTML and CSS file was provided. This was an excercise in creating variables and then qualifing them with prompts, for loops, and math functions in the Javascript file. 
 
 # Installation 
 This site is deployed through the GitHub link provided:
-Site link: https://github.com/mj470/Password-Generator-Module-3
+Site link: file:///Users/marenchristensen/Password-Generator-Module-3/Password-Generator-Module-3/index.html
 
 # Usage
 This page could be used to generate a random password when the user follows 4 specific criteria about case, special characters, numbers, and length. This will genearte a password and then reset to generate another. 
